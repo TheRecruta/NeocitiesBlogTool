@@ -9,6 +9,6 @@ https://github.com/neocities/python-neocities
 
 After that is done, you must use your Neocities credentials to log into your Neocities account.
 
-And all you need to do is write your Blogpost aaaand boom! posts.json will be automatically uploaded into your Neocities dashboard.
+And all you need to do is write your blogpost aaaand boom! posts.json will be automatically uploaded into your Neocities dashboard.
 
 The only thing you'll have to figure out is how to dynamically add the content in posts.json to your website. A JS example will be here in the future.
